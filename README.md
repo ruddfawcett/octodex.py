@@ -4,7 +4,7 @@ octodex.py
 A Python wrapper for the Octodex API.
 
 ##Use
-Use this wrapper like any other Ruby class:
+Use this wrapper like any other Python class:
 
 ```python
 # import the Octodex class from octodex.py
@@ -65,4 +65,4 @@ The API checks if the number exists in the Octodex, so you don't have to check i
 - Check for errors given by the API and handle them
 
 ##Use of Octocats
-Check out the GitHub Octodex frequently asked questions (http://octodex.github.com/faq), for specific use.  GitHub owns all of the Octocats, this Ruby class just uses an API that grabs all of their data.
+Check out the GitHub Octodex frequently asked questions (http://octodex.github.com/faq), for specific use.  GitHub owns all of the Octocats, this Python class just uses an API that grabs all of their data.
